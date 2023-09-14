@@ -6,7 +6,7 @@ export const Body = () => {
         <div className="row">
           <div className="col-6 col-sm-12" id="Pict">
             <img
-              src="https://scontent.fblj1-2.fna.fbcdn.net/v/t39.30808-6/335452509_1914338392263400_8065431717783719610_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=174925&_nc_ohc=b_SHKw9N6awAX8dNVXq&_nc_ht=scontent.fblj1-2.fna&oh=00_AfDaZqDQ3izPoBSyMGRME25PBrA9_fEGxTWvlsGHTofa_g&oe=64F39DBD"
+              src="./my_pic.jpg"
               className="rounded-circle"
               alt="Profile"
               id="Picture" 
