@@ -35,6 +35,8 @@ export const Body = () => {
               >
                 Message me
               </button>
+              <div className="col-6 col-sm-12" >
+            <div>
               <div
                 className="offcanvas offcanvas-start"
                 data-bs-scroll="true"
@@ -70,12 +72,14 @@ export const Body = () => {
                     >
                       Send
                     </button>
-                  </div>
                 </div>
               </div>
-            </div>
           </div>
         </div>
-      </div>
+        </div>
+        </div>
+        </div>
+        </div>
+        </div>
     );
   };
