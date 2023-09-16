@@ -36,7 +36,7 @@ body{
 }
 
 #social2:hover{
-    color: #e74c3c;
+    color: #e95950;
     transform: scale(1.1);
 }
 
@@ -79,19 +79,19 @@ body{
 #name{
     font-family: 'Bebas Neue', sans-serif;
     font-size: 55px;
-    margin-left: 260px;
+    margin-left: 285px;
     margin-top: 50px;
 }
 
 #name1{
     font-family: 'Bebas Neue', sans-serif; 
-    margin-left: 480px;
+    margin-left: 500px;
 }
 
 #Dis{
     width: 100px;
     height: 100px; 
-    margin-left: 570px;
+    margin-left: 590px;
 }
 
 #code{
@@ -109,7 +109,7 @@ body{
 
 #Pict{
     width: 400px;
-    padding-left: 350px;
+    padding-left: 385px;
 }
 
 #abtm{
@@ -135,15 +135,11 @@ body{
 }
 
 #titre{
-    margin-left: 560px;
+    margin-left: 580px;
     background-color: #2c3e50;
     color: #eff3f7;
 }
 
-
-#titre:hover{
-    transform: scale(1.1);
-}
 
 #pro{
     font-family: 'Bebas Neue', sans-serif;
@@ -173,9 +169,6 @@ body{
     margin-left: 720px;
 }
 
-#img:hover{
-    transform: rotate(10deg);
-}
 
 #bio{
     font-family: 'Bebas Neue', sans-serif;
@@ -204,10 +197,6 @@ body{
 
 #picbio{
     width: 350px;
-}
-
-#picbio:hover{
-    transform: rotate(-15deg);
 }
 
 #abt{
@@ -307,7 +296,7 @@ body{
    background-color: #2c3e50;
    color: #eff3f7;
    width: 310px;
-   height: 120px;
+   height: 130px;
    border-top-left-radius: 25px;
    border-bottom-left-radius: 25px;
    border-bottom-right-radius: 25px;
@@ -358,10 +347,6 @@ body{
     border-color:#cacaca;
     border-bottom-left-radius: 2000%;
     border-bottom-right-radius: 2000%;
-}
-
-#img:hover{
-    transform: rotate(20deg);
 }
 
 #body{
